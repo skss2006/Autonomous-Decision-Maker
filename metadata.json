@@ -1,0 +1,5 @@
+{
+  "name": "DECIDE",
+  "description": "A minimalist, authoritative decision engine that eliminates hesitation and selects the optimal path for any user-provided query or set of options.",
+  "requestFramePermissions": []
+}
